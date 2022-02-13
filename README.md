@@ -1,3 +1,17 @@
+
+
+
+
+
+https://user-images.githubusercontent.com/99152739/153778413-14be13bc-0603-4dc5-8379-5128e35d3fb2.mp4
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @EmilianoMojicaM
 =========================================
 - 👀 I’m interested in.
@@ -15,7 +29,3 @@
 *Smart Houses
 
 
-<!---
-EmilianoMojicaM/EmilianoMojicaM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
