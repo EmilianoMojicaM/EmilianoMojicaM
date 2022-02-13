@@ -1,16 +1,7 @@
 
 
 
-
-
-https://user-images.githubusercontent.com/99152739/153778413-14be13bc-0603-4dc5-8379-5128e35d3fb2.mp4
-
-
-
-
-
-
-
+![iron amn](https://user-images.githubusercontent.com/99152739/153779142-9c108b6d-ca1e-424f-9a4c-484cb4195efc.gif)
 
 - 👋 Hi, I’m @EmilianoMojicaM
 =========================================
@@ -27,5 +18,6 @@ https://user-images.githubusercontent.com/99152739/153778413-14be13bc-0603-4dc5-
 *Automatization process
 *AI developer
 *Smart Houses
+
 
 
