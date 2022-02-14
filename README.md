@@ -9,8 +9,7 @@
                                                                         *🦾Robotic
                                                                         *🤖 AI (Artificial Inteligence)
                                                                         *🏡 Domotic
-                                                                        =========================================
-                        ![satelite](https://user-images.githubusercontent.com/99152739/153959084-ad249269-ac3c-4270-a1ab-419c3ad4ab29.gif)
+                                                                        ========================================
                                                 - 🌱 I’m currently learning.
                                                                         *👾 Deep Learning
                                                                         *💻Machine Learning
@@ -21,4 +20,5 @@
                                                                         *Smart Houses
 
 
+![satelite](https://user-images.githubusercontent.com/99152739/153959127-ae0a3bb5-4dec-4ea2-92e9-711327b7ad56.gif)
 
